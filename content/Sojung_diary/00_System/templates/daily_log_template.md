@@ -7,6 +7,9 @@
 - **Practice Time (min)**: `INPUT[number:swimming_minutes]`
 
 - **Routine:** `INPUT[textArea:swimming_routine]`
+- **Dryland Training**: `INPUT[inlineListSuggester(optionQuery("04_swimming/dryland_training")):swimming_dryland_training]`
+- `INPUT[inlineListSuggester(optionQuery("04_swimming/dryland_training", "folders")):category]`
+
 - **Note**:`INPUT[textArea:swimming_note]`
 
 ## 🎹 [[Piano]] 
