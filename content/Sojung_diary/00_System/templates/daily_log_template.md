@@ -8,7 +8,7 @@
 
 - **Routine:** `INPUT[textArea:swimming_routine]`
 - **Dryland Training**: `INPUT[inlineListSuggester(optionQuery("04_swimming/dryland_training")):swimming_dryland_training]`
-- `INPUT[inlineListSuggester(optionQuery("04_swimming/dryland_training", "folders")):category]`
+- `INPUT[inlineListSuggester(optionQuery("04_swimming/dryland_training")):category]`
 
 - **Note**:`INPUT[textArea:swimming_note]`
 
