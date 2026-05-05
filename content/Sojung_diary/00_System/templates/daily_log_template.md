@@ -10,6 +10,8 @@
 - **Dryland Training**: `INPUT[inlineListSuggester(optionQuery("04_swimming/dryland_training")):swimming_dryland_training]`
 - `INPUT[inlineListSuggester(optionQuery("04_swimming/dryland_training")):category]`
 
+`INPUT[inlineListSuggester("04_swimming/dryland_training/01_Upper_Body_and_Injury_Prevention", "04_swimming/dryland_training/02_Back_and_Stroke_Power", "04_swimming/dryland_training/03_Lower_Body_and_Start"):category]`
+
 - **Note**:`INPUT[textArea:swimming_note]`
 
 ## 🎹 [[Piano]] 
